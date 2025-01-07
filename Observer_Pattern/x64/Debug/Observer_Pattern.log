@@ -1,0 +1,7 @@
+﻿  Observer_Pattern.cpp
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I\Design_Patterns\Observer_Pattern\WeatherStation.h(76,56): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I\Design_Patterns\Observer_Pattern\WeatherStation.h(106,62): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I\Design_Patterns\Observer_Pattern\Observer_Pattern.cpp(22,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I\Design_Patterns\Observer_Pattern\Observer_Pattern.cpp(23,39): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I\Design_Patterns\Observer_Pattern\Observer_Pattern.cpp(24,39): warning C4305: 'argument': truncation from 'double' to 'float'
+  Observer_Pattern.vcxproj -> C:\Users\Cem Levent\Desktop\2.Sınıf1.Dönem\Nesne_Tabanlı_Programlama_I\Design_Patterns\x64\Debug\Observer_Pattern.exe
